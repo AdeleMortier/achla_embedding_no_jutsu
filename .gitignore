@@ -1,0 +1,4 @@
+models/raws/*
+corpora/*
+.ipynb_checkpoints/*
+__pycache__/*

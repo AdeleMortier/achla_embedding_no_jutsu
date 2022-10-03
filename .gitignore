@@ -1,4 +1,5 @@
 models/raws/*
+models/GloVe/*
 corpora/*
 .ipynb_checkpoints/*
 __pycache__/*
